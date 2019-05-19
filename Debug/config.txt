@@ -1,0 +1,2 @@
+anonymous root	D:/ftp
+admin 1234	D:/ftp

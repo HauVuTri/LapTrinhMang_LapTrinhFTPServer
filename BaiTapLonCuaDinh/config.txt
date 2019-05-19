@@ -1,0 +1,2 @@
+anonymous null D:/ftp/anonymous
+hau 123 D:/ftp/folderUser1
